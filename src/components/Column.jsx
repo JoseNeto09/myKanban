@@ -54,7 +54,7 @@ export default function Column({ state }) {
                 setOpen(false);
               }}
             >
-              Submit
+              Add
             </button>
           </div>
         </div>

@@ -23,12 +23,12 @@
   border-radius: 4px;
 }
 
-.ONGOING {
-  background: var(--COLOR-ONGOING);
+.ANDAMENTO {
+  background: var(--COLOR-ANDAMENTO);
 }
 
-.DONE {
-  background: var(--COLOR-DONE);
+.FEITO {
+  background: var(--COLOR-FEITO);
 }
 
 .task img {

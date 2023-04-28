@@ -7,9 +7,6 @@ Considerado evolucionário, o método propõe um olhar mais ativo e construtivo 
 
 front: Reactjs
 
-deploy: github pages
-
-link da aplicação https://encr.pw/85skU
 # Rodando localmente
 
 Clone o projeto
